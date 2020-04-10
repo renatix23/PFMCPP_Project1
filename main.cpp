@@ -59,85 +59,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       ball
+//  action 1:   ball bounces
+ball.bounce();
+//  action 2:   ball crashes
+ball.crashes();
+//  action 3:   ball stops rolling
+ ball.stopRolling();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       plant
+//  action 1:   plant oxygenates
+plant.oxygenates();
+//  action 2:   plant produces CO2
+plant.produceCO2();
+//  action 3:   plant grows
+ plant.grow();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cellPhone
+//  action 1:   cellPhone vibrates
+cellPhone.vibrate();
+//  action 2:   cellphone rings
+cellPhone.ring();
+//  action 3:   celphone warms up
+cellPhone.warmUp();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       sound
+//  action 1:   sound plays
+sound.play();
+//  action 2:   sound stops
+sound.stop();
+//  action 3:   sound fades
+ sound.fade();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       crane
+//  action 1:   crane pulls
+crane.pull();
+//  action 2:   crane oxidize
+crane.oxidize();
+//  action 3:   crane lifts up
+crane.liftUp();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   bird flies
+bird.fly();
+//  action 2:   bird sleeps
+bird.sleep();
+//  action 3:   bird eats
+bird.eat();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       boat
+//  action 1:   boat floats
+boat.floats();
+//  action 2:   boat contaminates
+boat.contaminate();
+//  action 3:   boat sinks
+boat.sink();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       drone
+//  action 1:   drone take a photograph
+drone.takePhotograph();
+//  action 2:   drone records
+drone.record();
+//  action 3:   drone spins left
+drone.spinLeft();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   dog barks
+dog.bark();
+//  action 2:   dog jumps
+dog.jump();
+//  action 3:   dog runs
+dog.run();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       sun
+//  action 1:   sun warms
+sun.warm();
+//  action 2:   sun explodes
+sun.explode();
+//  action 3:   sun shines
+sun.shine();
 
 
 #endif
