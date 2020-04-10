@@ -75,13 +75,13 @@ plant.produceCO2();
 //  action 3:   plant grows
  plant.grow();
 //  3)
-//  Noun:       cellphone
-//  action 1:   cellphone vibrates
-cellphone.vibrate();
+//  Noun:       cellPhone
+//  action 1:   cellPhone vibrates
+cellPhone.vibrate();
 //  action 2:   cellphone rings
-cellphone.ring();
+cellPhone.ring();
 //  action 3:   celphone warms up
-cellphone.warmUp();
+cellPhone.warmUp();
 //  4)
 //  Noun:       sound
 //  action 1:   sound plays
